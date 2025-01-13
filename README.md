@@ -1,27 +1,35 @@
-<h3>#Ola! 👋</h3>
+# Olá, sou o Artur 👋
 
-<h3>Me chamo Artur Morais, sou estudante da area de programação e apaixonado por tecnologia!</h3>
-<br>
-<h3>Conecte-se comigo: </h3>
+Sou estudante de *Engenharia de Software* e estou em processo de formação como programador no *DevClub. Estou focado em desenvolver habilidades em **HTML, **CSS* e *JavaScript*, criando projetos práticos e explorando as melhores práticas do desenvolvimento web.
 
-- <a href="https://www.instagram.com/artuur.morais/?next=%2F"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="intagram-logo">
+## 🛠️ Tecnologias que estou aprendendo:
 
-<br>
-<h3>Atualmente estou criando projetos com:</h3>
+- HTML
+- CSS
+- JavaScript
 
-  -  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
-  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+## 🚀 Projetos que desenvolvi:
 
-<br>
-<h3>E estou iniciando o estudo de: </h3>
+Aqui estão alguns dos projetos que desenvolvi durante meus estudos. Cada um deles me ajudou a aprimorar minhas habilidades e expandir meu conhecimento sobre as tecnologias mencionadas:
 
-- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript-logo" />
+- *Projeto 1*: https://artmorais77.github.io/conversor-de-moeda/
+- *Projeto 2*: https://artmorais77.github.io/random/
+- *Projeto 3*: https://artmorais77.github.io/devburguer/
 
-<br>
-<br>
+## 📚 O que estou estudando atualmente:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artmorais77)](https://github.com/anuraghazra/github-readme-stats)
+Atualmente, estou focado em aprender mais sobre:
 
-[![Artur Morais stats](https://github-readme-stats.vercel.app/api?username=artmorais77)](https://github.com/anuraghazra/github-readme-stats)
+- *Desenvolvimento Front-End*: Melhorando minhas habilidades em criar interfaces de usuário responsivas e dinâmicas.
+- *Node.js*: Começando a estudar e explorar o desenvolvimento de back-end com Node.js, aprendendo como criar servidores e APIs.
 
+## 📫 Como entrar em contato comigo:
 
+- *Email*: arturmorais.ald@gmail.com
+- *LinkedIn*: https://www.linkedin.com/in/artur-de-morais-meira
+
+---
+
+Acredito que a prática constante é essencial para o meu crescimento como desenvolvedor, por isso, estou sempre em busca de novos desafios e oportunidades para melhorar minhas habilidades e contribuir para a comunidade de desenvolvedores.
+
+Sinta-se à vontade para explorar meus projetos e entrar em contato se tiver alguma sugestão ou feedback!
